@@ -27,7 +27,7 @@
         Нік має містити A-Z a-z _, три цифри. Приклад: testEx_023
       </span>
       <div class="form-gender">
-        <p>Оберіть свій пол:</p>
+        <p>Оберіть стать:</p>
         <input type="radio"
                id="male"
                name="contact"
