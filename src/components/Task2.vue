@@ -32,7 +32,7 @@ export default {
     },
 
     deleteTask(task) {
-      this.tasks.pop(task);
+      this.tasks = this.tasks.filter(t => t.id !== task.id)
     }
   }
 }
